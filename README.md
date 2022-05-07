@@ -20,7 +20,7 @@
 
   # Usage
 
-  Please watch this video to see how to use the application.
+  Please watch this video to see how to use the application. [link](https://drive.google.com/file/d/1FOwiMAWpdOASNrYZuwMQ8MScOQ1NNvj4/view)
 
   # License
 
